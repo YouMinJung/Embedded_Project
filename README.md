@@ -23,6 +23,8 @@
 # Plant Management - 2017.11
 <p> ATmega 128을 이용하여 간단한 화분관리기 구현 </p>
 
+![default](https://user-images.githubusercontent.com/21214309/48600458-41f62880-e9af-11e8-8f78-d12adbaa0839.JPG)
+
 ##### Function
 1) DHT22로 온도, 습도를 측정하여 UART로 출력, 습도의 경우는 FND에도 출력
   * UART의 경우는 Switch1을 누르면 목록(작동 메뉴)가 뜨고 실행 시키고자 하는 동작 번호를 누르면 해당 동작을 수행함
@@ -35,5 +37,5 @@
 5) 일정 습도 이하가 되면 자동으로 모터가 동작하여 화분에 물을 줌
 6) 모터 동작전에 버저가 울리고 LED가 모두 ON된다. 
 
-##### PDF File :
+##### PDF File : [Embedded_System_project.pdf](https://github.com/YouMinJung/Embedded_Project/files/2588096/Embedded_System_project.pdf)
 ##### Video URL :
