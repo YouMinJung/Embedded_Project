@@ -9,6 +9,8 @@
 <p> 8051을 이용하여 짧은 동요를 연주 </p>
 <p> 8051을 이용하여 간단한 움직이는 마리오를 LCD로 구현 </p>
 
+![default](https://user-images.githubusercontent.com/21214309/48600716-6b638400-e9b0-11e8-8ff0-2b659b59489c.JPG)
+
 ##### Super Mario Flow
 1) Super Mario가 직선으로 걸어간다.
 2) Coin을 먹기위해 점프를 한다.
@@ -16,7 +18,10 @@
 4) 그대로 가던 길을 간다.
 5) 앞의 과정을 반복
 
-##### PDF File :
+##### Mario Flow Chart
+![2](https://user-images.githubusercontent.com/21214309/48600715-6acaed80-e9b0-11e8-8105-94ef05eb0840.JPG)
+
+##### PDF File : [MicroProcessor_8051.pdf](https://github.com/YouMinJung/Embedded_Project/files/2588118/MicroProcessor_8051.pdf)
 ##### Video URL :
 
 <br><br>
