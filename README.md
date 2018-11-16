@@ -22,7 +22,7 @@
 ![2](https://user-images.githubusercontent.com/21214309/48600715-6acaed80-e9b0-11e8-8105-94ef05eb0840.JPG)
 
 ##### PDF File : [MicroProcessor_8051.pdf](https://github.com/YouMinJung/Embedded_Project/files/2588118/MicroProcessor_8051.pdf)
-##### Video URL :
+##### Video URL : https://youtu.be/QHZboxuFFM8
 
 <br><br>
 
@@ -52,4 +52,4 @@
 6) 모터 동작전에 버저가 울리고 LED가 모두 ON된다. 
 
 ##### PDF File : [Embedded_System_project.pdf](https://github.com/YouMinJung/Embedded_Project/files/2588096/Embedded_System_project.pdf)
-##### Video URL :
+##### Video URL : https://youtu.be/clFvF0j555I
